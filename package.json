@@ -2,7 +2,7 @@
   "name": "flower-gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://cheriahkay.github.io/Picture-Gallery",
+  "homepage": "https://cheriahkay.github.io/cohort9",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
